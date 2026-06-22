@@ -1,3 +1,7 @@
+# ========================
+# TABLERO 8 REINAS
+# ========================
+
 N = 8
 
 def es_seguro(tablero, fila, col):
